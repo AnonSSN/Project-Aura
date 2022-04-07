@@ -8,6 +8,7 @@ v2210.0.x.s:
 	b) Add/Delete Orders
 	c) Setup
 	d) Add Table & Menu Entries
+	e) Change Password
 	
 v2210.1.x.s:
 	a) Modify Table & Menu Entries
