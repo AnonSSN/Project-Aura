@@ -1,5 +1,5 @@
 # Project-Aura
-This Project is aimed at developing a program for maintaining bills in the hotel management system.
+This Project is aimed at developing a program for maintaining bills and others in the hotel management system. This Project Is Free to Use and Redistribute.
 This is a tentative Schedule:
 vYYMM.Minor.Type.Build: Type=dev4, beta3, rc2, main1 MM=Month Of Major Release
 
