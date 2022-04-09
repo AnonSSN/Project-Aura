@@ -8,13 +8,13 @@ v2210.0.x.s:
 	b) Add/Delete Orders
 	c) Setup
 	d) Add Table & Menu Entries
-	e) Change Password
-	
-v2210.1.x.s:
+	e) Support to Print Bills
+
+2210.1.x.s:
 	a) Modify Table & Menu Entries
 	b) Add/Del waiters
 	c) Support For Installers (.msix for windows)
-	d) Support to Print Bills
+	d) Change Password
 
 v2310.0.x.s:
 	a) User Manual(PDF)
